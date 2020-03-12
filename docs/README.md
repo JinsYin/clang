@@ -1,9 +1,4 @@
-# C 语言知识库
-
-[![website][website-image]][website-href]
-
-[website-image]: https://img.shields.io/website-up-down-green-red/https/githome.io/clang/.svg
-[website-href]: https://githome.io/clang/
+# 教程
 
 C 语言是一种相对 “低级” 的语言（没有贬义），意味着它可以处理大部分计算机能够处理的对象，比如字符、数字和地址。这些对象可以通过具体机器实现的算术运算符和逻辑运算符组合在一起并移动。
 
@@ -11,17 +6,4 @@ C 语言不提供直接处理诸如字符串、集合、列表或数组等复合
 
 类似地，C 语言只提供了简单的单线程控制流，即测试、循环、分组和子程序，它不提供多道程序设计、并行操作、同步和协同例程。
 
-## 翻译过程
-
-1. 预处理（preprocessing）
-2. 编译（compilation）
-3. 汇编（assembly）
-4. 链接（linking）
-
-## LICENSE
-
-[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](LICENSE)
-
-## 参考
-
-* [ANSI C](https://en.wikipedia.org/wiki/ANSI_C)
+## 目录
