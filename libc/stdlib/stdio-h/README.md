@@ -1,4 +1,6 @@
-# <stdio.h> - standard input/output
+# stdio.h
+
+stdio 即 standard input/output
 
 C 语言本身并没有定义输入输出功能。常用的 `printf` 函数仅仅是标准库 `<stdio.h>` 中的一个有用的函数而已。
 

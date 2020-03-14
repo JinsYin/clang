@@ -11,6 +11,26 @@ C 语言不提供直接处理诸如字符串、集合、列表或数组等复合
 
 类似地，C 语言只提供了简单的单线程控制流，即测试、循环、分组和子程序，它不提供多道程序设计、并行操作、同步和协同例程。
 
+## 简史
+
+* 时间：1969年 ～ 1973年
+* 地点：美国 AT&T 公司的贝尔实验室（Bell Labs）
+* 人物：丹尼斯·里奇（Dennis Ritchie；第一作者）、肯·汤普逊（Ken Thompson）
+* 事件：为了移植和开发 Unix 操作系统，在 B 语言（作者：Ken Thompson）和 BCPL 语言（作者：Martin Richards）的基础上设计了 C 语言
+* 特点：高效、灵活、功能丰富、高可移植性
+* 书籍：《The C Programming Language》（Dennis Ritche & Brian Kernighan）
+
+## C 标准
+
+* **K&R C** - Brian Kernighan 和 Dennis Ritchie 在《The C Programming Language》第 1 版描述的参考手册
+* **ANSI C** / **ISO C** / **Standard C**
+  * **C89** - 1983 ～ 1989 年美国国家标准协会（ANSI）基于《The C Programming Language》第 1 版的参考手册制定的标准（该书第 2 版又根据 ANSI C 标准做了修订），通常被称为 C89，有时 ANSI C 也专指 C89
+  * **C90** - 被 ISO 批准的与 C89 相同的标准，有时被称为 **C90**
+  * **C95** - 1995 年 ISO 根据 ANSI C 标准做了扩展，被称为 **C95**
+  * **C99** - 2000 年 3 月，ANSI 采用了 ISO/IEC 9899:1999 标准并做了一些补充，通常被称为 C99
+  * **C11** - 2012 年 ISO 制定的标准
+  * **C18** - C 语言的当前标准
+
 ## 翻译过程
 
 1. 预处理（preprocessing）
